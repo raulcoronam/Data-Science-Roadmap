@@ -49,7 +49,6 @@ Este es el espacio para mis notas y reflexiones clave. Mi objetivo es explicar e
 Ciencia de datos es el proceso para entender diferentes cosas, para responder preguntas a aquello que se está explorando. La ciencia de datos es el campo de exploración, manipulación y análisis de datosm con el fin de responder a preguntas o hacer recomendaciones. La Ciencia de datos puede ayudar a las empresas a entender sus entornos, analizar problemas existentes y revelar oportunidades ocultas. Los científicos de datos buscan utilizar de la mejor manera los datos para proporcionar valor a la empresa. La Ciencia de Datos es esencial para aclarar la pregunta que la empresa quiere responder. Las mejores preguntas iniciales pueden ser: ¿Qué datos necesitamos para resolver el problema? ¿De dónde vendrán esos datos?. A veces se confirma lo que la empresa sospecha pero en otras ocasiones, puede llevar a conocimiento nuevo que lleva a la empresa a un nuevo enfoque.
 
 Los datos te pueden hacer aprender: "Yo pensaba esto pero ahora con los datos, sé esto". 
-    * (Tus notas aquí... por ejemplo: "No es solo Machine Learning, es una disciplina que combina estadística, programación y conocimiento de negocio para extraer insights de los datos.")
 
 * **El Rol de un Científico de Datos:**
 Los científicos de datos requieren una combinación de habilidades, incluyendo conocimiento especializado en la materia, programación y habilidades de comunicación. Las 3 softskills principales de un científico de datos son la curiosidad (ayuda a plantear preguntas significativas), la argumentación (argumentos sólidos ayudan a explicar los hallazgos después de aprender de los datos) y el juicio (guía para empezar en la dirección correcta), aunque un cientifico de datos debe sentirse cómodo con las matemáticas y los algoritmos. 
@@ -57,10 +56,42 @@ Se encarga no solo de manipular, explofar y encontrar conclusiones sobre los dat
 Una de las mayores características de un científico de datos es la curiosidad (para saber qué hacer con los datos) y la comunicación (para poder contar una historia). Si no logras contar una gran historia, tus hallazgos permanecerán ocultos. Los científicos de datos no provienen de un campo en particular, sino que usualmente vienen de varios campos como ingeniería, estadística e incluso psicología. Lo que tienen en común es el interés en entender los datos y aprender nuevas herramientas para trabajar con ellos. La ventaja competitiva de un científico de datos es ser especialista en un campo en específico. Es decir, tu ventaja competitiva es tu comprensión de algún aspecto de la vida donde tus habilidades exceden las de los demás. Después, tu ventaja competitiva debe concatenarse con tus habilidades analíticas y aquí es importante aprender platafomas/herramientas que sean específicas para el sector que te interesa. Por último, después de aprender las herramientas/plataformas, lo siguiente debe ser aplicar tus habilidades a problemas reales y mostrarle al mundo lo que puedes hacer.
 Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysis -> Recognition -> Storytelling -> Visualization
 
+* **What Do Data Scientists Do?**
+¿Cuál es la importancia de Big Data para un Data Scientist?
+
+¿Con cuáles tipos de formatos de archivos trabaja un Data Scientist? 
+
+¿Cuáles son los principales algoritmos usados por un Data Scientist?
+
+¿Cuándo se le puede llamar a alguien Data Scientist? 
+
 * **El Ciclo de Vida de un Proyecto de Data Science:**
 
 * **Diferencias entre Data Science, Data Analytics e IA:**
     * (Tus notas aquí... ¡un punto clave para no confundir términos!)
+ 
+### Glosario (Continuación)
+
+| Term | Definition | Video where the term is introduced |
+| --- | --- | --- |
+| Comma-separated values (CSV) / Tab-separated values (TSV) | Commonly used format for storing tabular data as plain text where either the comma or the tab separates each value. | Working on Different File Formats |
+| Data file types | A computer file configuration is designed to store data in a specific way. | Working on Different File Formats |
+| Data format | How data is encoded so it can be stored within a data file type. | Working on Different File Formats |
+| Data visualization | A visual way, such as a graph, of representing data in a readily understandable way makes it easier to see trends in the data. | Data Science Topics and Algorithms |
+| Delimited text file | A plain text file where a specific character separates the data values. | Working on Different File Formats |
+| Extensible Markup Language (XML) | A language designed to structure, store, and enable data exchange between various technologies. | Working on Different File Formats |
+| Hadoop | An open-source framework designed to store and process large datasets across clusters of computers. | What Makes Someone a Data Scientist |
+| JavaScript Object Notation (JSON) | A data format compatible with various programming languages for two applications to exchange structured data. | Working on Different File Formats |
+| Jupyter notebooks | A computational environment that allows users to create and share documents containing code, equations, visualizations, and explanatory text. See Python notebooks. | Data Science Skills & Big Data |
+| Nearest neighbor | A machine learning algorithm that predicts a target variable based on its similarity to other values in the dataset. | Working on Different File FormS Formats |
+| Neural networks | A computational model used in deep learning that mimics the structure and functioning of the human brain's neural pathways. It takes an input, processes it using previous learning, and produces an output. | A Day in the Life of a Data Scientist |
+| Pandas | An open-source Python library that provides tools for working with structured data is often used for data manipulation and analysis. | Data Science Skills & Big Data |
+| Python notebooks | Also known as a “Jupyter” notebook, this computational environment allows users to create and share documents containing code, equations, visualizations, and explanatory text. | Data Science Skills & Big Data |
+| R | An open-source programming language used for statistical computing, data analysis, and data visualization. | Data Science Skills & Big Data |
+| Recommendation engine | A computer program that analyzes user input, such as behaviors or preferences, and makes personalized recommendations based on that analysis. | A Day in the Life of a Data Scientist |
+| Regression | A statistical model that shows a relationship between one or more predictor variables with a response variable. | Data Science Topics and Algorithms |
+| Tabular data | Data that is organized into rows and columns. | A Day in theLife of a Data Scientist |
+| XLSX | The Microsoft Excel spreadsheet file format. | Working on Different File Formats |
  
 * **Dudas**
 * **¿Qué son los datos estructurados y no estructurados?**
