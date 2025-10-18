@@ -65,6 +65,16 @@ Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysi
 * **Dudas**
 * **¿Qué son los datos estructurados y no estructurados?**
 
+* **Glosario de Data Science**
+  | Term | Definition | Video where the term is introduced |
+| --- | --- | --- |
+| Algorithms | A set of step-by-step instructions to solve a problem or complete a task. | What is Data Science? |
+| Model | A representation of the relationships and patterns found in data to make predictions or analyze complex systems retaining essential elements needed for analysis. | What is Data Science? |
+| Outliers | When a data point or points occur significantly outside of most of the other data in a data set, potentially indicating anomalies, errors, or unique phenomena that could impact statistical analysis or modeling. | What is Data Science? |
+| Quantitative analysis | A systematic approach using mathematical and statistical analysis is used to interpret numerical data. | Many Paths to Data Science |
+| Structured data | Data is organized and formatted into a predictable schema, usually related tables with rows and columns. | What is Data Science? |
+| Unstructured data | Unorganized data that lacks a predefined data model or organization makes it harder to analyze using traditional methods. This data type often includes text, images, videos, and other content that doesn't fit neatly into rows and columns like structured data. | What is Data Science? |
+
 ## 💻 ¿Cómo se usa este directorio?
 
 * En esta carpeta guardaré mis apuntes principales en este `README.md`.
