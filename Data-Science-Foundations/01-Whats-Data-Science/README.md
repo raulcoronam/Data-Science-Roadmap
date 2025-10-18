@@ -56,15 +56,6 @@ Se encarga no solo de manipular, explofar y encontrar conclusiones sobre los dat
 Una de las mayores características de un científico de datos es la curiosidad (para saber qué hacer con los datos) y la comunicación (para poder contar una historia). Si no logras contar una gran historia, tus hallazgos permanecerán ocultos. Los científicos de datos no provienen de un campo en particular, sino que usualmente vienen de varios campos como ingeniería, estadística e incluso psicología. Lo que tienen en común es el interés en entender los datos y aprender nuevas herramientas para trabajar con ellos. La ventaja competitiva de un científico de datos es ser especialista en un campo en específico. Es decir, tu ventaja competitiva es tu comprensión de algún aspecto de la vida donde tus habilidades exceden las de los demás. Después, tu ventaja competitiva debe concatenarse con tus habilidades analíticas y aquí es importante aprender platafomas/herramientas que sean específicas para el sector que te interesa. Por último, después de aprender las herramientas/plataformas, lo siguiente debe ser aplicar tus habilidades a problemas reales y mostrarle al mundo lo que puedes hacer.
 Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysis -> Recognition -> Storytelling -> Visualization
 
-* **What Do Data Scientists Do?**
-¿Cuál es la importancia de Big Data para un Data Scientist?
-
-¿Con cuáles tipos de formatos de archivos trabaja un Data Scientist? 
-
-¿Cuáles son los principales algoritmos usados por un Data Scientist?
-
-¿Cuándo se le puede llamar a alguien Data Scientist? 
-
 * **El Ciclo de Vida de un Proyecto de Data Science:**
 
 * **Diferencias entre Data Science, Data Analytics e IA:**
