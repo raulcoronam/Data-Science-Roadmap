@@ -65,8 +65,9 @@ Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysi
 * **Dudas**
 * **¿Qué son los datos estructurados y no estructurados?**
 
-* **Glosario de Data Science**
-  | Term | Definition | Video where the term is introduced |
+### Glosario de Data Science
+
+| Term | Definition | Video where the term is introduced |
 | --- | --- | --- |
 | Algorithms | A set of step-by-step instructions to solve a problem or complete a task. | What is Data Science? |
 | Model | A representation of the relationships and patterns found in data to make predictions or analyze complex systems retaining essential elements needed for analysis. | What is Data Science? |
