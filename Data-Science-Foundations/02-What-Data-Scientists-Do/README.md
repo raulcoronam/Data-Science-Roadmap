@@ -38,6 +38,8 @@ Para entender qué hacen los Data Scientists, he analizado un producto que los u
 
 Aquí documentaré mis notas de cada lección, conectándolas siempre con el caso de Uber o Netflix.
 
+
+
 ### 🎥 "A Day in the Life of a Data Scientist"
 * (Tus notas aquí... ¿Qué tareas hacen? ¿Pasan más tiempo limpiando datos o creando modelos? ¿Con quién hablan?)
 * **Conexión con el Caso Práctico:**
