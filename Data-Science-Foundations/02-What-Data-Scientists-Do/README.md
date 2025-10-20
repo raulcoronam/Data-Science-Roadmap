@@ -107,9 +107,6 @@ Algunos de los temas y algoritmos más importantes para un Data Scientist son:
 
     Data Science is a journey of exploration, innovation and storytelling.
 
-* **Mi propia definición de lo que es un Data Scientist:**
-    (Aquí puedes escribir tu definición personal basada en la lectura).
-
 ---
 
 ## Glosario (Continuación)
