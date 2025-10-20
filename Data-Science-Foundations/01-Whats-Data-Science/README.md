@@ -1,18 +1,12 @@
 # Curso 1: What's Data Science?
 
-- Define data science and its importance in today’s data driven world.
-- List some paths that can lead to a career in data science.
-- Summarize advice given by seasoned data science professionals to data scientists who are just starting out.
-- Articulate why data science is considered the most in-demand job in the 21st century.
-- Describe what a typical day in the life of a data scientist looks like.
-- Define some of the commonly used terms in data science.
-- Identify some of the key qualities of a successful data scientist.
+## 🎯 Mi Objetivo con el Módulo: What is Data Science?
 
-- ## 🎯 Mi Objetivo con el Módulo: What is Data Science? 
-
-* **¿Qué sé ya sobre esto?** He oído que Data Science es ahora fundamental para las empresas, especialmente las grandes, ya que utilizan datos para entender mejor al cliente, entender mejor sus números y entender a la empresa en general y así, crecer. He oído que se usa para recomendaciones como las de Netflix, pero no sé exactamente cómo funciona. La ciencia de datos utiliza los datos para comprender el mundo que nos rodea. 
-* **¿Cuál es mi meta de aprendizaje?** Mi objetivo es entender a ciencia cierta, qué es Data Science, cómo es el dá a día de un Data Scientist, quiero conocer si es el campo laboral al que me quiero dedicar y cómo sería mi vida si me dedico a ello. 
+* **¿Qué sé ya sobre esto?** He oído que Data Science es ahora fundamental para las empresas, especialmente las grandes, ya que utilizan datos para entender mejor al cliente, entender mejor sus números y entender a la empresa en general y así, crecer. He oído que se usa para recomendaciones como las de Netflix, pero no sé exactamente cómo funciona. La ciencia de datos utiliza los datos para comprender el mundo que nos rodea.
+* **¿Cuál es mi meta de aprendizaje?** Mi objetivo es entender a ciencia cierta, qué es Data Science, cómo es el día a día de un Data Scientist, quiero conocer si es el campo laboral al que me quiero dedicar y cómo sería mi vida si me dedico a ello.
 * **¿Qué estrategia utilizaré?** El Método de Deconstrucción Aplicada 2.0.
+
+---
 
 ## Paso 1: Vistazo al Resultado Final - El Caso de Netflix
 
@@ -30,7 +24,7 @@ Mi método de aprendizaje inicia deconstruyendo un caso real para entender el "p
     * Las **filas de categorías** que veo ("Porque viste...").
     * El **orden** en que se presentan las películas y series.
     * Incluso la **imagen de portada** que me muestran para un mismo título.
-    * El **porcentaje de coincidencia** que me anima a probar algo nuevo.
+    * El **porcentaje de coincidencia** que me anima a probar nuevo.
 
 ### Preguntas que me Surgen
 
@@ -41,28 +35,42 @@ Este primer análisis me deja con preguntas que espero resolver a medida que apr
 
 **Conclusión del Paso 1:** He confirmado que la Ciencia de Datos no es un ejercicio abstracto. Es una disciplina para construir "productos" que resuelven problemas de negocio utilizando datos. Este contexto me da un ancla mental para entender los conceptos que estudiaré a continuación.
 
-## 🧠 ¿Qué aprendí aquí?
+---
+
+## Paso 2: Fundamentos Conectados a la Realidad
 
 Este es el espacio para mis notas y reflexiones clave. Mi objetivo es explicar en mis propias palabras los conceptos más importantes.
 
-* **¿Qué es realmente la Ciencia de Datos?**
-Ciencia de datos es el proceso para entender diferentes cosas, para responder preguntas a aquello que se está explorando. La ciencia de datos es el campo de exploración, manipulación y análisis de datosm con el fin de responder a preguntas o hacer recomendaciones. La Ciencia de datos puede ayudar a las empresas a entender sus entornos, analizar problemas existentes y revelar oportunidades ocultas. Los científicos de datos buscan utilizar de la mejor manera los datos para proporcionar valor a la empresa. La Ciencia de Datos es esencial para aclarar la pregunta que la empresa quiere responder. Las mejores preguntas iniciales pueden ser: ¿Qué datos necesitamos para resolver el problema? ¿De dónde vendrán esos datos?. A veces se confirma lo que la empresa sospecha pero en otras ocasiones, puede llevar a conocimiento nuevo que lleva a la empresa a un nuevo enfoque.
+### ¿Qué es realmente la Ciencia de Datos?
 
-Los datos te pueden hacer aprender: "Yo pensaba esto pero ahora con los datos, sé esto". 
+Ciencia de datos es el proceso para entender diferentes cosas, para responder preguntas a aquello que se está explorando. Es el campo de exploración, manipulación y análisis de datos con el fin de responder a preguntas o hacer recomendaciones.
 
-* **El Rol de un Científico de Datos:**
-Los científicos de datos requieren una combinación de habilidades, incluyendo conocimiento especializado en la materia, programación y habilidades de comunicación. Las 3 softskills principales de un científico de datos son la curiosidad (ayuda a plantear preguntas significativas), la argumentación (argumentos sólidos ayudan a explicar los hallazgos después de aprender de los datos) y el juicio (guía para empezar en la dirección correcta), aunque un cientifico de datos debe sentirse cómodo con las matemáticas y los algoritmos. 
-Se encarga no solo de manipular, explofar y encontrar conclusiones sobre los datos, sino que también de hacer que la organización entienda dichos datos.
-Una de las mayores características de un científico de datos es la curiosidad (para saber qué hacer con los datos) y la comunicación (para poder contar una historia). Si no logras contar una gran historia, tus hallazgos permanecerán ocultos. Los científicos de datos no provienen de un campo en particular, sino que usualmente vienen de varios campos como ingeniería, estadística e incluso psicología. Lo que tienen en común es el interés en entender los datos y aprender nuevas herramientas para trabajar con ellos. La ventaja competitiva de un científico de datos es ser especialista en un campo en específico. Es decir, tu ventaja competitiva es tu comprensión de algún aspecto de la vida donde tus habilidades exceden las de los demás. Después, tu ventaja competitiva debe concatenarse con tus habilidades analíticas y aquí es importante aprender platafomas/herramientas que sean específicas para el sector que te interesa. Por último, después de aprender las herramientas/plataformas, lo siguiente debe ser aplicar tus habilidades a problemas reales y mostrarle al mundo lo que puedes hacer.
-Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysis -> Recognition -> Storytelling -> Visualization
+La Ciencia de datos puede ayudar a las empresas a entender sus entornos, analizar problemas existentes y revelar oportunidades ocultas. Los científicos de datos buscan utilizar de la mejor manera los datos para proporcionar valor a la empresa. Es esencial para aclarar la pregunta que la empresa quiere responder. Las mejores preguntas iniciales pueden ser: ¿Qué datos necesitamos para resolver el problema? ¿De dónde vendrán esos datos?.
 
-* **El Ciclo de Vida de un Proyecto de Data Science:**
+A veces se confirma lo que la empresa sospecha pero en otras ocasiones, puede llevar a conocimiento nuevo que lleva a la empresa a un nuevo enfoque. Los datos te pueden hacer aprender: "Yo pensaba esto pero ahora con los datos, sé esto".
 
-* **Diferencias entre Data Science, Data Analytics e IA:**
-    * (Tus notas aquí... ¡un punto clave para no confundir términos!)
- 
-* **Dudas**
-* **¿Qué son los datos estructurados y no estructurados?**
+### El Rol de un Científico de Datos
+
+Los científicos de datos requieren una combinación de habilidades, incluyendo conocimiento especializado en la materia, programación y habilidades de comunicación. Las 3 softskills principales son:
+1.  **Curiosidad:** Ayuda a plantear preguntas significativas.
+2.  **Argumentación:** Argumentos sólidos ayudan a explicar los hallazgos después de aprender de los datos.
+3.  **Juicio:** Guía para empezar en la dirección correcta.
+
+Un científico de datos debe sentirse cómodo con las matemáticas y los algoritmos. Se encarga no solo de manipular, explorar y encontrar conclusiones sobre los datos, sino que también de hacer que la organización entienda dichos datos. Si no logras contar una gran historia, tus hallazgos permanecerán ocultos.
+
+Los científicos de datos no provienen de un campo en particular, sino que usualmente vienen de varios campos como ingeniería, estadística e incluso psicología. Lo que tienen en común es el interés en entender los datos y aprender nuevas herramientas.
+
+La ventaja competitiva de un científico de datos es ser especialista en un campo en específico. Es decir, tu ventaja competitiva es tu comprensión de algún aspecto de la vida donde tus habilidades exceden las de los demás. Después, tu ventaja competitiva debe concatenarse con tus habilidades analíticas (aprender plataformas/herramientas específicas) y, finalmente, aplicar tus habilidades a problemas reales y mostrarle al mundo lo que puedes hacer.
+
+> Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysis -> Recognition -> Storytelling -> Visualization
+
+### El Ciclo de Vida de un Proyecto de Data Science
+(Tus notas aquí...)
+
+### Diferencias entre Data Science, Data Analytics e IA
+(Tus notas aquí... ¡un punto clave para no confundir términos!)
+
+---
 
 ### Glosario de Data Science
 
@@ -74,6 +82,8 @@ Data -> Stories -> Insights or Clarify the problem -> Data collection -> Analysi
 | Quantitative analysis | A systematic approach using mathematical and statistical analysis is used to interpret numerical data. | Many Paths to Data Science |
 | Structured data | Data is organized and formatted into a predictable schema, usually related tables with rows and columns. | What is Data Science? |
 | Unstructured data | Unorganized data that lacks a predefined data model or organization makes it harder to analyze using traditional methods. This data type often includes text, images, videos, and other content that doesn't fit neatly into rows and columns like structured data. | What is Data Science? |
+
+---
 
 ## 💻 ¿Cómo se usa este directorio?
 
