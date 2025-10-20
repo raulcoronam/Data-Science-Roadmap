@@ -12,7 +12,30 @@ Este módulo se sumerge en la infraestructura que hace posible la ciencia de dat
 
 ## Paso 1: Vistazo al Resultado Final - El Caso de Meta (Facebook)
 
-(Aquí pegarás el análisis que haremos juntos en la **Parte 2** de esta conversación).
+Para entender "Big Data" y "Data Mining", he analizado a uno de sus pioneros y mayores usuarios: Meta. Ellos se enfrentaron a problemas de escala tan grandes que tuvieron que inventar sus propias herramientas.
+
+### Análisis Guiado
+
+* **El Problema de Negocio:**
+    1.  **Para Usuarios:** Filtrar miles de publicaciones para mostrar solo el contenido más relevante en el News Feed y retener la atención del usuario.
+    2.  **Para Anunciantes:** Permitir una segmentación híper-específica para que las marcas muestren anuncios solo a las audiencias que les interesan (ej. "mujeres de 30-40 que les gusta el yoga").
+
+* **Los Datos (El "Big Data"):** Aquí es donde las "3 V" son obvias:
+    * **Volumen:** Petabytes de datos (trillones de posts, likes, fotos, videos).
+    * **Velocidad:** Millones de nuevos datos (likes, comentarios, shares) generados por segundo.
+    * **Variedad:** Datos estructurados (perfil), no estructurados (fotos, texto) y semi-estructurados (logs de clics).
+
+* **El Resultado Observable (El Producto de "Data Mining"):**
+    1.  **El News Feed:** Es un producto de "minería de datos" que predice qué publicaciones te interesarán más.
+    2.  **Los Anuncios Segmentados:** El resultado de "minar" los perfiles y comportamientos de miles de millones de usuarios para agruparlos en audiencias vendibles.
+    3.  **"Gente que podrías conocer":** Un algoritmo de minería de datos que analiza las redes sociales.
+
+### Conexión con las Herramientas del Módulo
+La única forma de lograr esto es con herramientas de Big Data:
+* **Cloud:** No se usa una sola supercomputadora, sino un clúster de miles de máquinas baratas. Este conjunto de máquinas es la "nube".
+* **HDFS (Hadoop File System):** Es el "disco duro" de la nube. Un sistema de archivos que reparte esos petabytes de datos entre todas las máquinas del clúster.
+* **Hadoop (MapReduce) y Spark:** Son los "cerebros" del procesamiento. Permiten ejecutar una tarea (ej: "contar todos los likes de 'hiking'") en todas las miles de máquinas a la vez, en lugar de una por una. **Spark** es la versión moderna y más rápida.
+* **Hive:** La herramienta que Meta *inventó* para que sus Data Scientists pudieran usar lenguaje **SQL** (que ya sabían) para lanzar trabajos de **Hadoop/Spark** (que eran muy complejos de programar), haciendo el análisis de Big Data accesible.
 
 ---
 
