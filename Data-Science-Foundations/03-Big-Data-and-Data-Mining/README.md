@@ -44,11 +44,32 @@ La única forma de lograr esto es con herramientas de Big Data:
 Aquí documentaré mis notas de cada lección, conectándolas siempre con el caso de Meta.
 
 ### 🎥 "How Big Data is Driving Digital Transformation"
-* (Tus notas aquí... ¿Qué es la transformación digital? ¿Cómo la impulsan los datos?)
-* **Conexión con el Caso Práctico:** (Ej: "Meta transformó la publicidad. Pasó de anuncios en TV para 'todos' a anuncios digitales específicos para 'mí'. Eso es imposible sin Big Data.")
+La transformación digital afecta a las operaciones comerciales, actualizando los procesos y operaciones existentes y creando otros nuevos para aprovechar los beneficios de las nuevas tecnologías. La transformación digital no consiste simplemente en duplicar los procesos existentes en formato digital; el análisis en profundidad del funcionamiento de la empresa ayuda a las organizaciones a descubrir cómo mejorar sus procesos y operaciones, y a aprovechar las ventajas de integrar la ciencia de datos en sus flujos de trabajo. No cabe duda de que abordar todos los problemas que surgen en este esfuerzo requiere una nueva mentalidad, pero la transformación digital es la forma de tener éxito ahora y en el futuro. 
+* **Conexión con el Caso Práctico:**
+En 2018, los Rockets de Houston, un equipo de la NBA, elevaron su nivel de juego con el uso del big data. Los Rockets fueron uno de los cuatro equipos de la NBA que instalaron un sistema de seguimiento por vídeo que extraía datos sin procesar de los partidos. Analizaron los datos de seguimiento de vídeo para investigar qué jugadas ofrecían las mejores oportunidades de conseguir puntuaciones altas y descubrieron algo sorprendente. El análisis de los datos reveló que los tiros que ofrecen las mejores oportunidades de conseguir puntuaciones altas son los mates de dos puntos desde dentro de la zona de dos puntos y los tiros de tres puntos desde fuera de la línea de tres puntos, no los tiros de dos puntos a larga distancia desde dentro de la misma. Este descubrimiento cambió por completo la forma en que el equipo abordaba cada partido, aumentando el número de intentos de tiros de tres puntos. En la temporada 2017-18, los Rockets encestaron más tiros de tres puntos que ningún otro equipo en la historia de la NBA, y esta fue una de las principales razones por las que ganaron más partidos que cualquiera de sus rivales.
 
 ### 🎥 "Introduction to Cloud" / "Cloud for Data Science"
-* (Tus notas aquí... ¿Qué es Cloud Computing? ¿Qué es IaaS, PaaS, SaaS? ¿Por qué lo usan los Data Scientists?)
+¿Qué es Cloud Computing? 
+Es la entrega de recursos commputacionales bajo demanda, como redes, servidores, almacenamiento, aplicaciones, servicios, centros de datos, todo sobre internet y bajo un sistema de pago por uso. A Cloud Computing se accede mediante internet en vez de localmente. 
+
+La computación en la nube se compone de cinco características esenciales, tres modelos de implementación y tres modelos de servicio. La computación en la nube se compone de cinco características esenciales, tres modelos de implementación y tres modelos de servicio.
+
+Las 5 caracteristicas esenciales son: 
+- On-demand self-service: Se puede acceder a los recursos de la nube mediante una interfaz sencilla sin necesidad de   interacción humana con cada proveedor de servicios.
+- Broad network access: El amplio acceso a la red significa que a través de la red se pueden acceder a los recursos de cloud computing en teléfonos móviles, tabletas, computadoras y estaciones de trabajo.
+- Resource pooling: La agrupación de recursos es lo que le da a los proveedores de la nube economía de escala, haciendo que la nube sea rentable. Al utilizar un modelo multiusuario, los recursos informáticos se agrupan para atender a varios consumidores, y los recursos en la nube se asignan y reasignan dinámicamente según la demanda, sin que los clientes necesiten saber la ubicación física de estos recursos. El "resource pooling" es como un gran depósito de recursos que se comparte entre diferentes usuarios. Imagina que tienes un grupo de amigos y todos deciden usar una piscina comunitaria. En lugar de que cada uno tenga su propia piscina en casa, todos pueden disfrutar de la misma piscina cuando lo deseen. De esta manera, se aprovechan mejor los recursos y se reduce el costo para cada uno. En el contexto de la computación en la nube, los proveedores agrupan recursos como servidores, almacenamiento y redes para servir a múltiples clientes al mismo tiempo. Esto permite que los costos sean más bajos y que los recursos se utilicen de manera más eficiente.
+- Rapid elasticity: Implica que puede acceder a más recursos cuando los necesita y reducirlos cuando no los necesita, ya que los recursos se aprovisionan y liberan de forma elástica.
+- Measured service: Significa que solo paga por lo que usa o reserva sobre la marcha. Si no utilizas los recursos, no pagas.
+
+Los 3 modelos de implementación de la nube indican donde reside la infraestructura, a quién le pertenece, quien la maneja y cómo se ponen a disposición de los usuarios los recursos y servicios de la nube y son: 
+- Públicos. Es cuando tú aprovechas los servicios de la nube a través de internet abierto en hardware propiedad del proveedor de la nube, pero otras empresas comparten su uso. 
+- Privados
+- Híbridos
+
+- 
+¿Qué es IaaS, PaaS, SaaS? 
+
+¿Por qué lo usan los Data Scientists?)
 * **Conexión con el Caso Práctico:** (Ej: "Meta no podría tener un edificio con una supercomputadora. Necesita miles de computadoras (un 'cluster') en todo el mundo. Eso es una **Cloud** (aunque sea privada). Un DS en Meta no usa su laptop para entrenar un modelo, pide prestado poder de la 'nube' de Meta.")
 
 ### 🎥 "Foundations of Big Data"
