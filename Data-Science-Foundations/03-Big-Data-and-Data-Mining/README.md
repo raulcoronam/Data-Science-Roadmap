@@ -127,7 +127,13 @@ In-Memory Processing: It significantly speeds up computations by processing data
 
 
 ### 📖 "Data Mining"
-* (Tus notas aquí... ¿Qué es? ¿Cuál es el objetivo? ¿Técnicas?)
+El primer paso en la extracción de datos requiere que se establezcan metas par el ejercicio. Obviamente, debes identificar las preguntas clave que necesitan ser respondidas. Además de tener en cuenta los costos y beneficios del ejercicio, debes determinar por adelantado el nivel esperado de exactitud y utilidad de los resultados obtenidos de la extracción de datos. 
+    - Selecting Data 
+    - Preprocessing Data
+    - Transforming Data
+    - Storing Data
+    - Mining Data
+    - Evaluating Mining Results 
 * **Conexión con el Caso Práctico:** (Ej: "El **Data Mining** es lo que hace Meta para decidir qué anuncio mostrarme. 'Mina' mis likes, posts y los de mis amigos para clasificarme en un grupo (ej: 'persona interesada en hiking'). Así, las marcas de botas de montaña pueden pagarme para mostrarme su anuncio.")
 
 ---
