@@ -109,16 +109,22 @@ Procesos para manejar grandes cantidades de datos de manera eficiente:
 
 ### 🎥 "Big Data Processing Tools: Hadoop, HDFS, Hive, and Spark"
 Estas herramientas proveen de formas de trabajar con grandes conjuntos de datos estructurados, semi estructurados y no estructurados para aprovechar el valor de big data. 
-* **Hadoop (MapReduce):**
-  Hadoop es open source technology. Es una copia de la arquitectura de big data de Google. Hadoop es un conjunto de herramientas que proporciona almacenamiento y procesamiento distribuidos de macrodatos. Aquí, un nodo de un clúster es una sola computadora y el conjunto de nodos forma al clúster. Hadoop puede ampliarse de un solo nodo a cualquier número de nodos, cada uno de los cuales ofrece almacenamiento y computación locales. Hadoop proporciona una solución fiable, escalable y rentable para almacenar datos sin requisitos de formato.
-    * **HDFS:** (Hadoop Distributed File System)
-      Es uno de los 4 componentes principales de Hadoop. Es un sistema de almacenamiento para big data. 
-      Algunas de las otras ventajas que se obtienen al usar HDFS incluyen: una recuperación rápida en caso de fallas       de hardware, ya que HDFS está diseñado para detectar fallas y recuperarse automáticamente. 
-      Acceso a la transmisión de datos, ya que el HDFS admite altas velocidades de procesamiento de datos.                 Alojamiento de grandes conjuntos de datos, ya que el HDFS puede ampliarse a cientos de nodos, u ordenadores,         en un único clúster. Portabilidad, ya que el HDFS se puede transportar a varias plataformas de hardware y es         compatible con una variedad de sistemas operativos subyacentes. 
-* **Hive:** (Definición)
-Es open source technology. Hive es un almacén de datos para consultas y análisis de datos creado sobre Hadoop.    Hive es un software de almacenamiento de datos de código abierto para leer, escribir y administrar archivos de grandes conjuntos de datos que se almacenan directamente en HDFS o en otros sistemas de almacenamiento de datos, como Apache HBase. Hadoop está diseñado para escaneos secuenciales prolongados y, dado que Hive está basado en Hadoop, las consultas tienen una latencia muy alta, lo que hace que Hive sea menos adecuado para aplicaciones que necesitan tiempos de respuesta muy rápidos. Además, Hive se basa en la lectura y, por lo tanto, no es adecuado para el procesamiento de transacciones, que normalmente implica un alto porcentaje de operaciones de escritura. Hive es más adecuado para tareas de almacenamiento de datos, como la ETL, la elaboración de informes y el análisis de datos, e incluye herramientas que permiten un fácil acceso a los datos mediante SQL. 
-* **Spark:** (Definición)
-  Es open source technology. Spark es un marco de análisis de datos distribuido diseñado para realizar análisis de datos complejos en tiempo real. Spark, un motor de procesamiento de datos de uso general diseñado para extraer y procesar grandes volúmenes de datos para una amplia gama de aplicaciones, incluidas la analítica interactiva, el procesamiento de flujos, el aprendizaje automático, la integración de datos y la ETL. Aprovecha el procesamiento en memoria para aumentar significativamente la velocidad de los cálculos y el almacenamiento en el disco solo cuando la memoria es limitada. Spark cuenta con interfaces para los principales lenguajes de programación, como Java, Scala, Python, R y SQL. Puede ejecutarse con su tecnología de agrupamiento en clústeres independiente, así como sobre otras infraestructuras, como Hadoop. Además, puede acceder a los datos de una gran variedad de fuentes de datos, incluidas HDFS y Hive, lo que lo hace muy versátil. La capacidad de procesar datos de streaming con rapidez y realizar análisis complejos en tiempo real es el principal caso de uso de Apache Spark. 
+
+* **Apache Hadoop**
+
+Distributed Storage and Processing: Hadoop allows for the storage and processing of large datasets across clusters of computers, providing a reliable and scalable solution.
+Hadoop Distributed File System (HDFS): HDFS partitions files across multiple nodes, enabling parallel access and fault tolerance through data replication. Uso: Ideal para almacenar y procesar grandes volúmenes de datos de manera distribuida.
+
+* **Apache Hive**
+
+Data Warehousing: Hive is designed for reading, writing, and managing large datasets stored in HDFS, using SQL-like queries for data analysis.
+High Latency: While suitable for ETL and reporting tasks, Hive is less appropriate for applications requiring fast response times due to its read-based nature. Uso: Mejor para tareas de análisis de datos y generación de informes, no para procesamiento en tiempo real.
+
+* **Apache Spark**
+
+Real-Time Data Processing: Spark is a general-purpose data processing engine that excels in real-time analytics and complex data processing.
+In-Memory Processing: It significantly speeds up computations by processing data in memory and supports various programming languages, making it versatile for different applications. Uso: Ideal para análisis en tiempo real, procesamiento de flujos de datos y machine learning.
+
 
 ### 📖 "Data Mining"
 * (Tus notas aquí... ¿Qué es? ¿Cuál es el objetivo? ¿Técnicas?)
