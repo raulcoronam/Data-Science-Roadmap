@@ -62,15 +62,23 @@ Las 5 caracteristicas esenciales son:
 - Measured service: Significa que solo paga por lo que usa o reserva sobre la marcha. Si no utilizas los recursos, no pagas.
 
 Los 3 modelos de implementación de la nube indican donde reside la infraestructura, a quién le pertenece, quien la maneja y cómo se ponen a disposición de los usuarios los recursos y servicios de la nube y son: 
-- Públicos. Es cuando tú aprovechas los servicios de la nube a través de internet abierto en hardware propiedad del proveedor de la nube, pero otras empresas comparten su uso. 
-- Privados
-- Híbridos
+- Públicos: Es cuando tú aprovechas los servicios de la nube a través de internet abierto en hardware propiedad del proveedor de la nube, pero otras empresas comparten su uso. 
+- Privados: La infraestructura de la nube se aprovisiona para el uso exclusivo de una sola organización. Puede funcionar de forma local o puede ser propiedad de un proveedor de servicios, gestionado y operado por él. 
+- Híbridos: Es cuando se utikiza una combinación de nubes públicas y privadas que funcionan juntas sin problemas.
 
-- 
-¿Qué es IaaS, PaaS, SaaS? 
+Los 3 modelos de servicio se basan en las 3 capas de un conjunto de computación: Infraestructura, Plataforma y Aplicación, y son los siguientes: 
 
-¿Por qué lo usan los Data Scientists?)
-* **Conexión con el Caso Práctico:** (Ej: "Meta no podría tener un edificio con una supercomputadora. Necesita miles de computadoras (un 'cluster') en todo el mundo. Eso es una **Cloud** (aunque sea privada). Un DS en Meta no usa su laptop para entrenar un modelo, pide prestado poder de la 'nube' de Meta.")
+- Iaas (infraestructura como servicio): En un modelo de IaaS, puede acceder a la infraestructura y a los recursos informáticos físicos, como los servidores, las redes, el almacenamiento y el espacio del centro de datos, sin necesidad de administrarlos ni operarlos. Think of this as renting a fully equipped workshop. You get access to all the tools and machines (like servers and storage) you need to build your projects, but you don’t have to worry about maintaining the workshop itself. You can use the resources as you need them and pay only for what you use.
+- PaaS (plataforma como servicio): En un modelo PaaS, puede acceder a la plataforma que incluye las herramientas de hardware y software que normalmente se necesitan para desarrollar e implementar aplicaciones para los usuarios a través de Internet. This is like renting a space in a bakery where you can bake your cakes. The bakery provides the ovens, ingredients, and tools, so you can focus on creating delicious treats without worrying about the setup. In PaaS, you get the tools and environment to develop and deploy applications without managing the underlying infrastructure.
+- SaaS (software como servicio): SaaS es un modelo de licencia y entrega de software en el que el software y las aplicaciones se alojan de forma centralizada y se licencian mediante suscripción. Imagine subscribing to a streaming service like Netflix. You can watch movies and shows without needing to download or install anything on your device. SaaS works the same way; you access software applications over the Internet, usually through a subscription, without needing to install them on your computer.
+
+Diferencias: 
+- IaaS: Control total sobre la infraestructura, ideal para empresas que necesitan personalización.
+- PaaS: Enfoque en el desarrollo de aplicaciones, sin preocuparse por la infraestructura.
+- SaaS: Acceso a aplicaciones listas para usar, sin necesidad de instalación.
+
+La nube es una "bendición" para los data scientist ya que pueden almacenar ahí no solo grandes conjuntos de datos sino también los algoritmos que usarán para trabajar dichos conjuntos de datos. La nube èrmite que varias entidades de trabajo, trabajen con los mismos datos, al mismo tiempo, por ejemplo, colegas de Alemania, India y Ghana pueden trabajar de forma colectiva ya que la información, algoritmos, herramientas, respuestas, resultados y todo lo qye necesiten, están disponibles en un lugar central (nube) y también esta permite acceso instantáneo a las tecnologías. 
+
 
 ### 🎥 "Foundations of Big Data"
 * (Tus notas aquí... ¿Cuáles son las '3 V'? Volumen, Velocidad, Variedad)
