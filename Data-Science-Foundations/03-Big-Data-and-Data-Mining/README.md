@@ -128,12 +128,12 @@ In-Memory Processing: It significantly speeds up computations by processing data
 
 ### 📖 "Data Mining"
 El primer paso en la extracción de datos requiere que se establezcan metas par el ejercicio. Obviamente, debes identificar las preguntas clave que necesitan ser respondidas. Además de tener en cuenta los costos y beneficios del ejercicio, debes determinar por adelantado el nivel esperado de exactitud y utilidad de los resultados obtenidos de la extracción de datos. 
-    - Selecting Data 
-    - Preprocessing Data
-    - Transforming Data
-    - Storing Data
-    - Mining Data
-    - Evaluating Mining Results 
+    - Selecting Data: La salida obtenida de una extracción de datos depende en gran medida de la calidad de datos          usados.El tipo de dato, su tamaño y su frecuencia de recolección tienen relación directa con el ejercicio de         data mining. 
+    - Preprocessing Data: Este paso es importante porque los datos crudos son confusos, ya que contienen erores o datos irrelevantes. En esta etapa se eliminan los atributos irrelevantes de los datos para evitar su futura consideración. También es importante identificar los aspectos erróneos de los datos y etiquetarlos. Los datos deben ser controlados para asegurar integridad. Por último, se debe desarrollar un método formal para lidiar con datos faltantes y determinar si los datos están haciendo falta de manera aleatoria o sistemática. Debes determinar el impacto de los datos faltantes en los resultados. 
+    - Transforming Data: Después de retener los atributos relevantes de los datos, el siguiente paso es determinar el formato apropiado en el cuál los datos deben ser almacenados. Es importante reducir el número de atributos necesarios para explicar los fenómenos. Algoritmos de reducción de datos como el Análisis de Componentes Principales ayudan a reducir el número de atributos sin una pérdida significante de información. En adición, las variables podrían necesitar ser transformadas para ayudar a explicar los fenómenos estudiados. 
+    - Storing Data: Los datos transformados deben ser almacenados en un formato que sea propicio para la minería de datos. Privacidad y seguridad de datos debe ser una preocupación principal en el almacenamiento de datos. 
+    - Mining Data: Después de que los datos sean adecuadamente procesados, transformados y almacenados, están sujetos a la minería de datos. Este paso cubre métodos de análisis de datos incluyendo métodos paramétricos y no paramétricos, así como algoritmos de machine learning. Un buen punto de inicio para data mining es la visualización de datos, y una buena práctica de ello ayudará a entender tendencias escondidas detras del conjunto de datos. 
+    - Evaluating Mining Results: Después de extraer resultados del data mining, se hará una evaluación formal de los resultados y se genera lo conocido como "El pronóstico dentro de la muestra". Los resultados son compartidos con los stakeholders clave para retroalimentación, lo cual es incorporado en iteraciones posteriores de data mining para mejorar el proceso. Los pasos de Data mining y Evaluating Mining Results se convierte en un proceso iterativo tal que el analista usa mejores algoritmos para mejorar la calidad de los resultados generados a luz de la retroalimenación recibida desde los stakeholders clave.  
 * **Conexión con el Caso Práctico:** (Ej: "El **Data Mining** es lo que hace Meta para decidir qué anuncio mostrarme. 'Mina' mis likes, posts y los de mis amigos para clasificarme en un grupo (ej: 'persona interesada en hiking'). Así, las marcas de botas de montaña pueden pagarme para mostrarme su anuncio.")
 
 ---
