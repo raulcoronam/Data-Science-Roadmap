@@ -95,8 +95,31 @@ Success in data science is achievable even for those who may not excel in tradit
 
 
 ### 📖 "The Report Structure"
-* (Tus notas aquí... ¿Cómo se estructura un informe de negocios? ¿Resumen Ejecutivo, Metodología, Hallazgos (Insights), Recomendaciones?)
-* **Conexión con el Caso Práctico:** (Ej: "El JD pide 'excelentes habilidades de comunicación'. Esto es a lo que se refieren. No es solo hablar bien; es la habilidad de crear este 'Reporte' que un C-Level pueda leer, entender y usar para tomar una decisión en 5 minutos.")
+El texto describe la estructura formal que debe seguir un informe, independientemente de su longitud. Argumenta que tanto los informes breves (menos de 5 páginas) como los detallados (más de 100) se benefician de un formato prescrito para presentar los hallazgos de manera profesional y clara.
+
+El autor identifica componentes esenciales que a menudo se omiten erróneamente:
+
+Portada: Debe incluir, como mínimo, el título, autores, afiliaciones, datos de contacto y la fecha de publicación para facilitar la citación y el contacto.
+
+Tabla de Contenido (ToC): Se recomienda para cualquier documento de cinco páginas o más, ya que sirve como un "mapa" para que el lector entienda la estructura del informe.
+
+Resumen Ejecutivo (o Abstract): Es crucial para explicar el argumento central del informe de manera concisa, idealmente en tres párrafos o menos.
+
+El cuerpo del informe debe seguir una secuencia lógica:
+
+Introducción: Presenta el problema al lector.
+
+Revisión de Literatura: Sitúa el trabajo en su contexto, identifica lagunas en la investigación existente y presenta las preguntas de investigación.
+
+Metodología: Detalla los métodos de investigación y las fuentes de datos utilizadas.
+
+Resultados: Expone los hallazgos empíricos, a menudo usando estadísticas descriptivas, gráficos y modelos formales. En informes de negocios, los detalles estadísticos a veces se minimizan en favor de gráficos.
+
+Discusión: Es donde se "crea la narrativa", conectando los resultados con las preguntas de investigación y destacando los hallazgos.
+
+Conclusión: Generaliza los hallazgos y resalta su importancia y posibles aplicaciones futuras.
+
+El texto concluye enfatizando que el trabajo de un científico de datos incluye ser un comunicador efectivo. Se cita una lista de verificación de la revista Transport Policy como una herramienta útil para asegurar que el informe sea claro sobre su objetivo, contribución, contexto, utilidad práctica y estructura lógica.
 
 ### 📖 "Infograph on Roadmap"
 * (Tus notas aquí... ¿Cuáles son los pasos clave del roadmap?)
