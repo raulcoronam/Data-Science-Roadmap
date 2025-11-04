@@ -133,12 +133,21 @@ El texto concluye enfatizando que el trabajo de un científico de datos incluye 
 
 ## 🚀 Conclusión del Módulo
 
-(Escribe tu reflexión final aquí cuando termines el módulo).
-* **¿Qué funcionó bien?**
-* **¿Cuál es la diferencia más clara que aprendí entre los diferentes roles de datos?**
-* **¿Qué habilidad creo que necesito reforzar más después de este módulo?**
+Key Qualities of Data Scientists
+Companies look for individuals with a mix of domain-specific knowledge, analytical skills, and the ability to present data effectively.
+Passion for the industry and curiosity about data are crucial traits that enhance productivity and engagement.
 
----
+Skills Required for Data Science
+A strong foundation in mathematics, statistics, and programming (e.g., Python, R) is necessary for analyzing structured and unstructured data.
+Understanding data storage and retrieval systems, as well as machine learning algorithms, is essential for deriving insights from data.
+
+Importance of Communication
+Data scientists must possess strong communication and storytelling skills to present findings in an engaging manner.
+Reports should clearly convey goals, significance, and practical applications of the work, creating a narrative that captivates the audience.
+
+In summary, companies should focus on building diverse data science teams with individuals who possess curiosity, technical expertise, and storytelling abilities rather than searching for a single candidate with all desired skills.
+
+
 
 ## Glosario del Módulo
 (Aquí puedes pegar la tabla del glosario cuando la tengas).
