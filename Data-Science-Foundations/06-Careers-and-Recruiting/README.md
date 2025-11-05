@@ -149,5 +149,19 @@ In summary, companies should focus on building diverse data science teams with i
 
 
 
-## Glosario del Módulo
-(Aquí puedes pegar la tabla del glosario cuando la tengas).
+## Glosario del Módulo: Carreras y Reclutamiento
+
+| Term | Definition | Video where the term is introduced |
+| --- | --- | --- |
+| Analytical skills | The ability to analyze information systematically, logically, and organized. | Recruiting for Data Science |
+| Chief information officer (CIO) | A business executive is responsible for an organization's information technology systems and tech-related initiatives. | How Can Someone Become a Data Scientist |
+| Computational thinking | Breaking problems into smaller parts and using algorithms, logic, and abstraction to develop solutions. Often used but not limited to computer science. | How Can Someone Become a Data Scientist |
+| Data clusters | A group of similar, related data points distinct from other clusters. | How Can Someone Become a Data Scientist |
+| Executive summary | Usually occurring at the beginning of a research paper, this section summarizes the important parts of the paper, including its key findings. | The Report Structure |
+| High-performing computing (HPC) cluster | A computing technology that uses a system of networked computers designed to solve complex and computationally intensive problems in traditional environments. | How Can Someone Become a Data Scientist |
+| Mathematical computing | The use of computers to calculate, simulate, and model mathematical problems. | Importance of Mathematics and Statistics for Data Science |
+| Matrices | Plural for matric, matrices are a rectangular (tabular) array of numbers often used in mathematics, statistics, and computer science. | Recruiting for Data Science |
+| Stata | A software package used for statistical analysis. | Recruiting for Data Science |
+| Statistical distributions | A way of describing the likelihood of different outcomes based on a dataset. The “bell curve” is a common statistical distribution. | How Can Someone Become a Data Scientist |
+| Structured Query Language (SQL) | A language used for managing data in a relational database. | Importance of Mathematics and Statistics for Data Science |
+| TCP/IP network | A network that uses the TCP/IP protocol to communicate between connected devices on that network. The Internet uses TCP/IP. | How Can Someone Become a Data Scientist |
