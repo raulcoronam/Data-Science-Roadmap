@@ -129,7 +129,15 @@ El texto concluye enfatizando que el trabajo de un científico de datos incluye 
 * (Tus notas aquí... ¿Cómo se integra DS en un negocio?)
 * **Conexión con el Caso Práctico:** (Este es el resumen que une todo: el *negocio* del JD tenía un *problema*, y el rol del Data Scientist es usar *datos* para proveer una *solución* que genere *valor*.)
 
----
+What is the company name that is advertising the job?
+What is the job title?
+Where is the role located?
+What is the expected salary or salary range?
+What is the total number of results from the search for the job post?
+What is one technical responsibility from the job post related to something you learned about in this course?
+What are two required technical skills from the job post?
+What are at least two ideas or concepts you learned about in this course relevant to these job posts?
+
 
 ## 🚀 Conclusión del Módulo
 
