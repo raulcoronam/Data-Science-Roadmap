@@ -44,12 +44,28 @@ Para entender "Data Literacy", he deconstruido un ecosistema donde la variedad y
 Aquí documentaré mis notas de cada lección, conectándolas siempre con nuestro caso de estudio del "Smart Home".
 
 ### 🎥 "Understanding Data"
-* (Tus notas aquí... ¿Cuáles son los tipos de datos? Ej: Estructurados vs. No Estructurados vs. Semi-Estructurados. ¿Numéricos, categóricos, texto, video?)
-* **Conexión con el Caso Práctico:** (Ej: "El termostato genera datos **estructurados numéricos** (21°C). Mi voz pidiendo una canción es un dato **no estructurado de audio**.")
+Data Categorization
+
+Structured Data: This type has a well-defined structure, stored in databases, and can be represented in tables. Examples include SQL databases, spreadsheets, and sensor data.
+
+Semi-Structured Data: This data has some organizational properties but lacks a fixed schema. It uses tags and metadata for organization. Examples include XML, emails, and TCP/IP packets.
+
+Unstructured Data: This data does not have a recognizable structure and cannot be easily organized in traditional databases. It includes web pages, social media feeds, images, and documents. It can be stored in files or NoSQL databases for analysis.
+
+In summary, structured data is organized and easily analyzable, semi-structured data has some organization but is less rigid, and unstructured data lacks a conventional format.
 
 ### 🎥 "Data Sources"
-* (Tus notas aquí... ¿De dónde vienen los datos? Ej: Bases de datos internas, APIs externas, sensores (IoT), entrada manual del usuario.)
-* **Conexión con el Caso Práctico:** (Ej: "Las fuentes de datos en el Smart Home son: **Sensores** (termostato, cámara), **Entrada del Usuario** (mi voz, la app del celular), y **APIs Externas** (el servicio del clima para decidir la temperatura).")
+Common Data Sources
+Relational Databases: Organizations use systems like SQL Server and Oracle to store structured data, which can be analyzed for insights, such as sales trends.
+Flat Files and XML Datasets: Data can be stored in formats like CSV or XML, with flat files containing simple, structured data and XML supporting more complex structures.
+
+APIs and Web Services
+Data Retrieval: APIs allow applications to request and receive data in various formats (e.g., JSON, XML) for analysis. Examples include social media APIs for sentiment analysis and stock market APIs for financial data.
+Web Scraping: This technique extracts data from websites, useful for gathering product information or generating leads.
+
+Data Streams and Feeds
+Real-Time Data: Constant streams from IoT devices, social media, and other sources provide timely data for analysis. Applications like Apache Kafka are used to process these streams.
+RSS Feeds: These capture updated information from online sources, allowing users to stay informed with the latest data.
 
 ### 🎥 "Working on Varied Data Sources and Types"
 * (Tus notas aquí... ¿Cuáles son los retos? ¿Cómo se combina un JSON de una API con una tabla de SQL? ¿Cómo se "limpia" un dato de texto?)
