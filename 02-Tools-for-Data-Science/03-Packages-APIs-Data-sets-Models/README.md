@@ -23,3 +23,16 @@ Examples of APIs
 
 The Watson Speech-to-Text API converts audio to text by sending audio files as post requests and receiving transcriptions.
 The Watson Language Translator API translates text, demonstrating how APIs can perform specific tasks and return results to the client.
+
+Definition of a Data Set
+
+A data set is a structured collection of data, which can include text, numbers, or media.
+Common formats include tabular data, such as CSV files, where each row represents an observation and each column contains specific information.
+Types of Data Ownership and Sources
+
+Traditionally, data sets were private due to proprietary information, but many organizations now share open data publicly.
+Open data sources, like those from the United Nations and Kaggle, provide valuable insights for data scientists and researchers.
+Community Data License Agreement (CDLA)
+
+The CDLA facilitates the sharing of open data with two licenses: CDLA-Sharing (requires sharing modifications) and CDLA-Permissive (does not require sharing).
+These licenses do not restrict the results derived from using the data, which is crucial for data science applications.
