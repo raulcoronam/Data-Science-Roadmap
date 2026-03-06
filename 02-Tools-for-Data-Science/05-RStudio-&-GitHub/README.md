@@ -46,6 +46,7 @@ Git es un sistema de control de versiones **distribuido**. No guarda archivos nu
 1. **Working Directory:** Archivos en los que estás trabajando actualmente.
 2. **Staging Area (`git add`):** El "limbo". Aquí seleccionas qué cambios están listos para ser guardados.
 3. **Local Repository (`git commit`):** Se crea una versión en tu historial local con un mensaje descriptivo.
+4. **Fork: Copia de un repositorio 
 
 ### Sincronización Remota (GitHub)
 * **Push:** Empujar tus cambios locales al servidor de GitHub.
