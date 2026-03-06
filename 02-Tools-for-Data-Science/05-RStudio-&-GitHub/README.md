@@ -85,3 +85,27 @@ Un conflicto ocurre cuando dos fuentes modifican la **misma línea** de código 
 | `git checkout -b [nombre]` | Crea una nueva rama y se mueve a ella. |
 | `git merge [rama]` | Combina una rama con la actual. |
 | `install.packages()` | Instala librerías desde CRAN en R. |
+
+| Comando | Descripción |
+| :--- | :--- |
+| `mkdir` | Crea un nuevo directorio o carpeta. |
+| `cd` | Cambia el directorio de trabajo actual. |
+| `git init` | Crea un nuevo repositorio local de Git en la carpeta actual. |
+| `ls -la .git` | Lista el contenido del directorio oculto de Git para verificar su estructura. |
+| `touch` | Crea un archivo nuevo vacío. |
+| `git add` | Añade archivos específicos al área de preparación (Staging Area). |
+| `git config --global user.email ""` | Configura el correo electrónico del usuario para los commits. |
+| `git config --global user.name ""` | Configura el nombre del usuario para los commits. |
+| `git commit -m ""` | Registra los cambios en el historial con un mensaje descriptivo. |
+| `git branch [nombre]` | Crea una nueva rama local con el nombre especificado. |
+| `git branch` | Lista todas las ramas locales y marca la rama activa con un asterisco. |
+| `git checkout [nombre]` | Cambia de la rama actual a la rama especificada. |
+| `git checkout -b [nombre]` | Comando de acceso directo para crear una rama y cambiar a ella inmediatamente. |
+| `echo` | Muestra una línea de texto o la redirige a un archivo. |
+| `cat` | Muestra el contenido de un archivo en la terminal. |
+| `git status` | Muestra el estado de los archivos (modificados, agregados o sin seguimiento). |
+| `git add *` | Añade todos los archivos modificados y nuevos al área de preparación. |
+| `git log` | Muestra el historial reciente de commits realizados. |
+| `git revert HEAD --no-edit` | Revierte el último commit creando uno nuevo sin abrir el editor de texto. |
+| `git merge [nombre]` | Fusiona los cambios de la rama especificada en la rama activa. |
+| `git branch -d [nombre]` | Elimina la rama especificada (siempre que esté fusionada). |
